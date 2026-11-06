@@ -8,7 +8,7 @@ I build the systems behind growing businesses: translating messy operating probl
 
 **One workspace for the work between marketing strategy and execution.** Marketing OS brings planning, brand context, content production, review, scheduling, and performance visibility into a coordinated operator experience.
 
-[**Explore the live Marketing OS demo →**](https://jidoka-marketing-os.netlify.app) · [**Read the product case study →**](https://crystalthuydong.netlify.app) 
+[**Explore the product case study →**](https://crystalthuydong.netlify.app) · **Interactive demo temporarily unavailable during security review** 
 
 | My role | What I focused on | What the demo shows |
 | --- | --- | --- |
@@ -26,6 +26,6 @@ I build the systems behind growing businesses: translating messy operating probl
 
 **Problem → decision → execution → evidence.** I care about what a system is allowed to decide, how people remain accountable, and whether the result makes a business easier to operate.
 
-[**Professional portfolio**](https://crystalthuydong.netlify.app) · [**Marketing OS demo**](https://jidoka-marketing-os.netlify.app) · [**JIDOKA Group**](https://github.com/jidokagroup)
+[**Professional portfolio**](https://crystalthuydong.netlify.app) · [**JIDOKA Group**](https://github.com/jidokagroup)
 
 *Selected production code and customer implementations are private by design. Public demos and case studies are intended to show product judgment and outcomes, not grant access to proprietary IP.*
