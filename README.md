@@ -20,6 +20,16 @@ The **public demonstration** uses fictional brands and interconnected synthetic 
 
 [**Explore the demo**](https://tdong1919-dev.github.io/Marketing-OS-Showcase/) · [**Read the case study**](https://github.com/tdong1919-dev/Marketing-OS-Showcase)
 
+## Featured work — Investor Social + REIDE
+
+**Independent product architecture and interactive proof of concept.**
+
+I designed and built a proposed real estate investment operating network connecting investor criteria, opportunity matching, agent and service relationships, underwriting, evidence review and operational next steps. REIDE is integrated as the analysis and due-diligence layer.
+
+This was an **independent proposal and prototype**, not a commissioned or commercially deployed client product. The demo uses simulated roles and records.
+
+[**Explore Investor Social**](https://investor-social-operator-hub.hello978822.chatgpt.site/) · [**Read the REIDE case study**](https://github.com/tdong1919-dev/investorsocial)
+
 ## Selected experience
 
 - **JIDOKA Group — Founder & CEO:** Building agent-assisted operating systems and workflow infrastructure for founder-led businesses.
