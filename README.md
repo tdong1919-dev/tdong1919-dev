@@ -28,7 +28,7 @@ I designed and built a proposed real estate investment operating network connect
 
 This was an **independent proposal and prototype**, not a commissioned or commercially deployed client product. The demo uses simulated roles and records.
 
-[**Explore Investor Social**](https://investor-social-operator-hub.hello978822.chatgpt.site/) · [**Read the REIDE case study**](https://github.com/tdong1919-dev/investorsocial)
+[**Explore Investor Social**](https://investorsocial.netlify.app/) · [**Read the REIDE case study**](https://github.com/tdong1919-dev/investorsocial)
 
 ## Selected experience
 
