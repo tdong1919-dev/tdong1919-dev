@@ -20,6 +20,16 @@ The **public demonstration** uses fictional brands and interconnected synthetic 
 
 [**Explore the demo**](https://tdong1919-dev.github.io/Marketing-OS-Showcase/) · [**Read the case study**](https://github.com/tdong1919-dev/Marketing-OS-Showcase)
 
+## Featured concept — Beauty Data Lab
+
+**A synthetic customer-data and lifecycle activation product prototype.**
+
+This standalone concept explores how customer profiles, standardized behavioral events, segment rules and channel consent affect marketing eligibility. Change a fictional customer's permission, build an audience, then simulate a lifecycle event to inspect the resulting decision and audit entry.
+
+It is a **portfolio exercise**, not a deployed CDP or evidence of prior ownership of Braze, Iterable, Salesforce Marketing Cloud, or other commercial engagement platforms.
+
+[**Explore Beauty Data Lab**](https://tdong1919-dev.github.io/beauty-data-lab/) · [**Read the product case study**](https://github.com/tdong1919-dev/beauty-data-lab)
+
 ## Featured work — Investor Social + REIDE
 
 **Independent product architecture and interactive proof of concept.**
