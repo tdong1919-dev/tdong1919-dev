@@ -1,31 +1,39 @@
 # Crystal Thuy Dong
 
-**Founder · Product & AI Systems Builder · Business Operator**
+**Technical Founder · Product & AI Systems Architect · Business Operator**
 
-I build the systems behind growing businesses: translating messy operating problems into useful products, connected workflows, and measurable decisions. My work spans customer acquisition, education, operations, and applied AI.
+I turn fragmented operating problems into connected products and repeatable workflows. My work crosses product strategy, applied AI, systems design and founder-led execution—from discovery and user experience to decision boundaries, integrations and delivery.
 
-## Featured work — JIDOKA Marketing OS
+[Portfolio](https://crystalthuydong.netlify.app) · [Marketing OS interactive demo](https://tdong1919-dev.github.io/Marketing-OS-Showcase/) · [Marketing OS case study](https://github.com/tdong1919-dev/Marketing-OS-Showcase)
 
-**One workspace for the work between marketing strategy and execution.** Marketing OS brings planning, brand context, content production, review, scheduling, and performance visibility into a coordinated operator experience.
+## Featured work — Marketing OS
 
-[**Explore the product case study →**](https://crystalthuydong.netlify.app) · **Interactive demo temporarily unavailable during security review** 
+**A coordinated workspace for the work between marketing strategy and execution.**
 
-| My role | What I focused on | What the demo shows |
+Marketing OS brings campaign planning, client context, content production, human review, conversations and performance views into a connected operator experience.
+
+The **public demonstration** uses fictional brands and interconnected synthetic records. Try approving content to update campaign readiness or turning an inbox conversation into a related content task.
+
+| My contribution | Public demonstration | Private by design |
 | --- | --- | --- |
-| Founder, product direction & systems design | Workflow definition, decision boundaries, cross-functional execution, and product integration | The user-facing experience of an integrated marketing operating system |
+| Product direction, systems design, workflow modeling and implementation coordination | Interactive navigation, linked records and review decisions | Production application, customer data, real business metrics and Scout's proprietary research and orchestration |
 
-**Scout is a related JIDOKA product**, built around prospect relevance, evidence, and personalized outreach. Public examples demonstrate the product experience; its internal research methods, prompts, customer data, and orchestration are proprietary and are not published here.
+[**Explore the demo**](https://tdong1919-dev.github.io/Marketing-OS-Showcase/) · [**Read the case study**](https://github.com/tdong1919-dev/Marketing-OS-Showcase)
 
 ## Selected experience
 
-- **JIDOKA Group — Founder & CEO:** Agent-assisted operating systems and workflow infrastructure for founder-led businesses.
-- **Socolashes Academy — Director of Online Education (2019–2023):** Developed accessible, tailored professional education alongside schools and beauty brands; student surveys and reviews reported 99% satisfaction. Built customer journeys connecting Shopify purchases, relevant courses, consultation, and ongoing follow-up.
-- **Autom8 — Product prototype:** Explored brand-aware social engagement and human review workflows, informing later operating-system work.
+- **JIDOKA Group — Founder & CEO:** Building agent-assisted operating systems and workflow infrastructure for founder-led businesses.
+- **Socolashes Academy — Director of Online Education (2019–2023):** Directed online education experiences and customer journeys across purchases, courses, consultation and follow-up. Student survey/review feedback reported 99% satisfaction.
+- **Business operations and product development:** Experience across service operations, marketing systems, client delivery and cross-functional product prototypes.
 
 ## How I work
 
-**Problem → decision → execution → evidence.** I care about what a system is allowed to decide, how people remain accountable, and whether the result makes a business easier to operate.
+**Problem → decision boundary → connected workflow → evidence.**
 
-[**Professional portfolio**](https://crystalthuydong.netlify.app) · [**JIDOKA Group**](https://github.com/jidokagroup)
+I care about more than what software *can* do. I start with the operational problem, define what a system should be allowed to decide, keep people accountable for consequential actions, and build toward outcomes that make the business easier to operate.
 
-*Selected production code and customer implementations are private by design. Public demos and case studies are intended to show product judgment and outcomes, not grant access to proprietary IP.*
+---
+
+[Professional portfolio](https://crystalthuydong.netlify.app) · [JIDOKA Group](https://github.com/jidokagroup)
+
+*Selected production code and customer implementations remain private. Public work demonstrates product judgment and representative workflows, not proprietary implementation details.*
